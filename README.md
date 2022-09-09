@@ -2,7 +2,7 @@
 - Altyapı [Armağanın](https://github.com/TheArmagan) geliştirdiği [modül](https://www.npmjs.com/package/@mostfeatured/dbi) kullanılarak yapılmıştır. Kullanımını anlamanız için bir adet komut, event ve dil dosyası bıraktım. Eğer modülü kullanarak kendiniz bir altyapı oluşturmak isterseniz modülün README.md dosyasını okuyabilirsiniz.
 
 # Nasıl bir şeyler ekliycez ya anlamadım?
-- Eğer kodu incelemenize rağmen nasıl kullanılacağını anlamadıysanız [Serendia](https://discord.gg/ckzbtkZ3ZZ) sunucusu üzerinden yardım aabilirsiniz..
+- Eğer kodu incelemenize rağmen nasıl kullanılacağını anlamadıysanız [Serendia](https://discord.gg/ckzbtkZ3ZZ) sunucusu üzerinden yardım alabilirsiniz.
 
 # Nasıl başlatıcaz bunu?
 - Öncelikle komutlarınızı discorda göndermeniz gerekiyor. Bunun için öncelikle publish.ts dosyasını çalıştırın ve komutların gönderilmesini bekleyin. Komutları gönderdikten sonra starter.ts dosyasını çalıştırarak botunuzun açılmasını sağlayabilirsiniz. 
